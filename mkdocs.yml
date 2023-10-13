@@ -1,0 +1,8 @@
+site_name: start_stop-ec2_demo
+site_description: "start_stop-ec2_demo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
